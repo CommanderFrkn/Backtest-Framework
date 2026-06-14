@@ -45,7 +45,7 @@ pip install pandas numpy matplotlib yfinance
 Nasıl Kullanılır?
 1. Proje dosyasını terminal veya komut satırı üzerinden çalıştırın:
 
-python projenin_adi.py
+python Technical-analysis.py
 
 2. Araç sizden analiz etmek istediğiniz hissenin borsadaki kodunu ve tarih aralığını isteyecektir. Örnek:
 
@@ -63,7 +63,7 @@ Stratejiler menüsünden seçtiğiniz stratejinin geçmişte ne kadar sinyal ür
 
 
 Menü Ağacı
-
+```
 ANA MENÜ
  ├── 1) Göstergeler
  │   ├── 1) MA20
@@ -78,12 +78,13 @@ ANA MENÜ
  │   ├── 3) MACD Crossover
  │   └── 4) Bollinger Band
  └── 3) Çıkış
-
+```
 
 Ek Açıklama:
 
 Bu araç üzerinden başta denildiği üzere 4 ana stratejiye göre girdiğiniz hisseyi test edebileceğiniz gibi aracı kendiniz özelleştirerek kendi stratejinizi yazarak bu stratejiyide test edebilirsiniz. Stratejiden kasıt TradingView'da kendi göstergenizi oluşturmak gibi aslında gösterge oluşturmuş oluyorsunuz ekstra kodlar yazarak veya var olan kodları özelleştirerek bunu yapabilirsiniz. Strateji için devreye diğer parametler giriyor ama bir gösterge oluşturmak isterseniz bu hazır şablonla beraber işiniz daha kolay olacak. Bu programa gösterge testinin iskeleti diyebiliriz.
 
 Yasal Uyarı ve Sorumluluk Reddi 
+
 Bu proje tamamen eğitim, araştırma ve kişisel gelişim amaçlı geliştirilmiştir. Kesinlikle bir yatırım tavsiyesi (YTD) değildir.
 Araç tarafından sunulan "Backtest" sonuçları geçmiş fiyat hareketlerine dayalı teorik hesaplamalardır. Gerçek piyasa koşullarındaki komisyon ücretlerini, fiyat kaymalarını (slippage) ve likidite sorunlarını içermez. Geçmiş performans, gelecekteki sonuçların garantisi olamaz. Bu aracı kullanarak yapılan işlemlerden doğabilecek finansal kayıplardan kullanıcı sorumludur.
