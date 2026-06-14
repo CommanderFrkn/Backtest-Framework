@@ -88,3 +88,7 @@ Yasal Uyarı ve Sorumluluk Reddi
 
 Bu proje tamamen eğitim, araştırma ve kişisel gelişim amaçlı geliştirilmiştir. Kesinlikle bir yatırım tavsiyesi (YTD) değildir.
 Araç tarafından sunulan "Backtest" sonuçları geçmiş fiyat hareketlerine dayalı teorik hesaplamalardır. Gerçek piyasa koşullarındaki komisyon ücretlerini, fiyat kaymalarını (slippage) ve likidite sorunlarını içermez. Geçmiş performans, gelecekteki sonuçların garantisi olamaz. Bu aracı kullanarak yapılan işlemlerden doğabilecek finansal kayıplardan kullanıcı sorumludur.
+
+NVİDİA 2024-01-01 / 2025-01-01 GoldenCross
+
+![GoldenCross](NVDA_golden_cross.png)
